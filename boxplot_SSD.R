@@ -16,8 +16,6 @@ glimpse(data)
 str(data)
 
 
-#Box Plot, median
-ggplot(data, aes(x=Population, y=BodySize), col) + geom_boxplot() + ylab("Pronotum width (mm)") + theme_bw()
 
 #Boxplot, mean and sd
 #pch is shape of point
@@ -27,7 +25,8 @@ BSn <- summary(data$Population) # Sample sizes
 BSSE <- BSsd / sqrt(BSn)
 t.crit <- qt(0.95, BSn-1)
 int.width <- BSSE * t.crit
-library(plotrix)
-plotCI(x=1:8, y=BSmean, xaxt="n", uiw=int.width, err='y',xlab="", ylab="Average protonum width (in mm) (mean ± S.E.M.)", pch=0)
-axis(1, at=1:8, labels=levels(data$Population), las=1)
-title(main="Sexual Size Dimorphism")
+plotCI(x=1:8, y=BSmean, xaxt="n", uiw=int.width, err='y',xlab="Population",ylim = c(3.2,4.2),
+       ylab="Average protonum width (mm)\n(mean ± S.E.M.)", pch=15,
+       col=rep(c("#D55E00","#F0E442","black","#0072B2"), each=2), lty=rep(1:2, each=n))
+
+
