@@ -1,4 +1,4 @@
-#Kruskla-Wallis test to determine if body size differs significantly between sexes within population and between populations#
+#Kruskal-Wallis test to determine if body size differs significantly between sexes within population and between populations#
 #Kruskal-Wallis test is used because Body Size(dep variable)=continuous + dependent variables (sex,population,country) are categorical = ANOVA BUT data not normal --> non-parametric test equivalent is Kruskal wallis. http://blog.minitab.com/blog/understanding-statistics/data-not-normal-try-letting-it-be-with-a-nonparametric-hypothesis-test
 
 #library and package
