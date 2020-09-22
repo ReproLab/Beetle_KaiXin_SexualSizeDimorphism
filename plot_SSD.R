@@ -34,3 +34,4 @@ axis(1, at=1:8, labels=levels(data$Population), las=1)
 
 
 
+
