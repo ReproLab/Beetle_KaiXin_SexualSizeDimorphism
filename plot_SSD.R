@@ -1,4 +1,4 @@
-###Box plot to visualise SSD### 
+###Plot to visualise SSD### 
 
 #load libraries#
 library(dplyr)
