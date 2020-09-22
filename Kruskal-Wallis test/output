@@ -1,0 +1,85 @@
+Output for Kruskal-Wallis
+
+[1] "/Users/kaixin/Beetle_KaiXin_SexualSizeDimorphism/Kruskal-Wallis test"
+> setwd("/Users/kaixin/Beetle_KaiXin_SexualSizeDimorphism/Kruskal-Wallis test")
+> CCNR <- read.csv("CCNR.csv")
+> Ubin <- read.csv("PU.csv")
+> MYmainland <- read.csv("MYmainland.csv")
+> Langkawi <- read.csv("Langkawi.csv")
+> 
+> 
+> #Kruskal-Wallis for Body Size~Sex within the population
+> str(CCNR)
+'data.frame':	96 obs. of  4 variables:
+ $ ID        : Factor w/ 96 levels "B1","B10","B11",..: 1 21 53 56 76 82 84 95 96 2 ...
+ $ Population: Factor w/ 2 levels "SG Mainland F",..: 2 2 2 2 2 2 2 2 2 2 ...
+ $ Sex       : Factor w/ 2 levels "F","M": 2 2 2 2 2 2 2 2 2 2 ...
+ $ BS        : num  4 4.25 3.75 3.9 3.85 3.7 3.35 3.6 4 3.6 ...
+> kruskal.test(BS~Sex, data =CCNR)
+
+	Kruskal-Wallis rank sum test
+
+data:  BS by Sex
+Kruskal-Wallis chi-squared = 18.451, df = 1, p-value = 1.744e-05
+
+> 
+> str(Ubin)
+'data.frame':	121 obs. of  4 variables:
+ $ ID        : Factor w/ 121 levels "B100","B101",..: 91 92 93 94 95 96 117 118 119 120 ...
+ $ Population: Factor w/ 2 levels "SG Island F",..: 2 2 2 2 2 2 2 2 2 2 ...
+ $ Sex       : Factor w/ 2 levels "F","M": 2 2 2 2 2 2 2 2 2 2 ...
+ $ BS        : num  3.65 3.9 3.8 4.22 3.5 ...
+> kruskal.test(BS~Sex, data =Ubin)
+
+	Kruskal-Wallis rank sum test
+
+data:  BS by Sex
+Kruskal-Wallis chi-squared = 38.501, df = 1, p-value = 5.472e-10
+
+> 
+> str(MYmainland)
+'data.frame':	97 obs. of  4 variables:
+ $ ID        : Factor w/ 97 levels "B275","B276",..: 16 17 18 19 20 21 22 23 24 25 ...
+ $ Population: Factor w/ 2 levels "MY Mainland F",..: 2 2 2 2 2 2 2 2 2 2 ...
+ $ Sex       : Factor w/ 2 levels "F","M": 2 2 2 2 2 2 2 2 2 2 ...
+ $ BS        : num  4.25 4.15 3.9 4.25 4.15 ...
+> kruskal.test(BS~Sex, data =MYmainland)
+
+	Kruskal-Wallis rank sum test
+
+data:  BS by Sex
+Kruskal-Wallis chi-squared = 1.8179, df = 1, p-value = 0.1776
+
+> 
+> str(Langkawi)
+'data.frame':	318 obs. of  4 variables:
+ $ ID        : Factor w/ 318 levels "B337","B338",..: 9 10 11 12 13 14 15 16 26 27 ...
+ $ Population: Factor w/ 2 levels "MY Island F",..: 2 2 2 2 2 2 2 2 2 2 ...
+ $ Sex       : Factor w/ 2 levels "F","M": 2 2 2 2 2 2 2 2 2 2 ...
+ $ BS        : num  3.75 3.65 3.77 3.7 3.55 ...
+> kruskal.test(BS~Sex, data =Langkawi)
+
+	Kruskal-Wallis rank sum test
+
+data:  BS by Sex
+Kruskal-Wallis chi-squared = 7.9314, df = 1, p-value = 0.004858
+
+> #read data for across population comparisons
+> combined <- read.csv("combined.csv")
+> 
+> #Kruskal-Wallis for between population
+> kruskal.test(BS~Population, data =combined)
+
+	Kruskal-Wallis rank sum test
+
+data:  BS by Population
+Kruskal-Wallis chi-squared = 64.713, df = 3, p-value = 5.778e-14
+
+> 
+> #Kruskal-Wallis for between country
+> kruskal.test(BS~Country, data =combined)
+
+	Kruskal-Wallis rank sum test
+
+data:  BS by Country
+Kruskal-Wallis chi-squared = 58.619, df = 1, p-value = 1.913e-14

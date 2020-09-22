@@ -7,29 +7,32 @@ library(dplyr)
 
 ##Load and check data
 getwd()
-setwd("/Users/kaixin/Beetle_KaiXin_SexualSizeDimorphism")
-Mandai <- read.csv("Mandai.csv")
-Ubin <- read.csv("Ubin.csv")
-Kenyir <- read.csv("KenyirGombakPerak.csv")
-Langkawi <- read.csv("Langkawi+NEW.csv")
+setwd("/Users/kaixin/Beetle_KaiXin_SexualSizeDimorphism/Kruskal-Wallis test")
+CCNR <- read.csv("CCNR.csv")
+Ubin <- read.csv("PU.csv")
+MYmainland <- read.csv("MYmainland.csv")
+Langkawi <- read.csv("Langkawi.csv")
 
 
 #Kruskal-Wallis for Body Size~Sex within the population
-str(Mandai)
-kruskal.test(BodySize~Sex, data =Mandai)
+str(CCNR)
+kruskal.test(BS~Sex, data =CCNR)
 
 str(Ubin)
-kruskal.test(BodySize~Sex, data =Ubin)
+kruskal.test(BS~Sex, data =Ubin)
 
-str(Kenyir)
-kruskal.test(BodySize~Sex, data =Kenyir)
+str(MYmainland)
+kruskal.test(BS~Sex, data =MYmainland)
 
 str(Langkawi)
-kruskal.test(BodySize~Sex, data =Langkawi)
+kruskal.test(BS~Sex, data =Langkawi)
+
+#read data for across population comparisons
+combined <- read.csv("combined.csv")
 
 #Kruskal-Wallis for between population
-kruskal.test(BodySize~Population, data =SSD)
+kruskal.test(BS~Population, data =combined)
 
 #Kruskal-Wallis for between country
-kruskal.test(BodySize~Country, data =SSD)
+kruskal.test(BS~Country, data =combined)
 

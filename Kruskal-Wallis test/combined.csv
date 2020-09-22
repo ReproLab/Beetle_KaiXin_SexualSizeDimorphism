@@ -1,0 +1,633 @@
+﻿ID,Country,Geography,Population,Sex,BS
+B1,Singapore,Mainland,CCNR,M,4
+B2,Singapore,Mainland,CCNR,M,4.25
+B3,Singapore,Mainland,CCNR,M,3.75
+B4,Singapore,Mainland,CCNR,M,3.9
+B5,Singapore,Mainland,CCNR,M,3.85
+B6,Singapore,Mainland,CCNR,M,3.7
+B7,Singapore,Mainland,CCNR,M,3.35
+B8,Singapore,Mainland,CCNR,M,3.6
+B9,Singapore,Mainland,CCNR,M,4
+B10,Singapore,Mainland,CCNR,M,3.6
+B11,Singapore,Mainland,CCNR,M,3.575
+B12,Singapore,Mainland,CCNR,M,3.5
+B13,Singapore,Mainland,CCNR,M,4.175
+B14,Singapore,Mainland,CCNR,M,3.8
+B15,Singapore,Mainland,CCNR,M,3.525
+B16,Singapore,Mainland,CCNR,M,3.45
+B17,Singapore,Mainland,CCNR,M,3.7
+B18,Singapore,Mainland,CCNR,M,4
+B19,Singapore,Mainland,CCNR,M,4.4
+B20,Singapore,Mainland,CCNR,M,3.8
+B21,Singapore,Mainland,CCNR,M,3.85
+B22,Singapore,Mainland,CCNR,M,3.9
+B23,Singapore,Mainland,CCNR,M,3.65
+B25,Singapore,Mainland,CCNR,M,3.9
+B26,Singapore,Mainland,CCNR,M,3.8
+B27,Singapore,Mainland,CCNR,M,3.725
+B28,Singapore,Mainland,CCNR,M,3.525
+B41,Singapore,Mainland,CCNR,M,3.55
+B43,Singapore,Mainland,CCNR,M,3.75
+B44,Singapore,Mainland,CCNR,M,3.825
+B45,Singapore,Mainland,CCNR,M,3.6
+B113,Singapore,Mainland,CCNR,M,3.6
+B114,Singapore,Mainland,CCNR,M,3.7
+B115,Singapore,Mainland,CCNR,M,3.6
+B116,Singapore,Mainland,CCNR,M,3.65
+B117,Singapore,Mainland,CCNR,M,4.1
+B118,Singapore,Mainland,CCNR,M,4.125
+B119,Singapore,Mainland,CCNR,M,4.25
+B120,Singapore,Mainland,CCNR,M,4.125
+B155,Singapore,Mainland,CCNR,M,4.35
+B408,Singapore,Mainland,CCNR,M,3.675
+B410,Singapore,Mainland,CCNR,M,3.8
+B411,Singapore,Mainland,CCNR,M,3.875
+B412,Singapore,Mainland,CCNR,M,4.25
+B413,Singapore,Mainland,CCNR,M,3.725
+B266,Singapore,Mainland,CCNR,M,3.65
+B267,Singapore,Mainland,CCNR,M,4.05
+B268,Singapore,Mainland,CCNR,M,3.7
+B269,Singapore,Mainland,CCNR,M,3.85
+B24,Singapore,Mainland,CCNR,F,3.8
+B46,Singapore,Mainland,CCNR,F,3.05
+B47,Singapore,Mainland,CCNR,F,3.1
+B48,Singapore,Mainland,CCNR,F,3.575
+B49,Singapore,Mainland,CCNR,F,3.25
+B50,Singapore,Mainland,CCNR,F,3.6
+B51,Singapore,Mainland,CCNR,F,3.75
+B52,Singapore,Mainland,CCNR,F,3.7
+B58,Singapore,Mainland,CCNR,F,3.65
+B59,Singapore,Mainland,CCNR,F,3.45
+B60,Singapore,Mainland,CCNR,F,3.725
+B435,Singapore,Mainland,CCNR,F,3.8
+B436,Singapore,Mainland,CCNR,F,2.525
+B437,Singapore,Mainland,CCNR,F,3.75
+B438,Singapore,Mainland,CCNR,F,3.225
+B439,Singapore,Mainland,CCNR,F,3.3
+B70,Singapore,Mainland,CCNR,F,3.85
+B71,Singapore,Mainland,CCNR,F,3.15
+B72,Singapore,Mainland,CCNR,F,3.45
+B73,Singapore,Mainland,CCNR,F,4
+B74,Singapore,Mainland,CCNR,F,3.375
+B75,Singapore,Mainland,CCNR,F,3.525
+B76,Singapore,Mainland,CCNR,F,3.525
+B77,Singapore,Mainland,CCNR,F,3.575
+B78,Singapore,Mainland,CCNR,F,3.75
+B79,Singapore,Mainland,CCNR,F,2.85
+B236,Singapore,Mainland,CCNR,F,3.25
+B42,Singapore,Mainland,CCNR,F,3.8
+B237,Singapore,Mainland,CCNR,F,3.25
+B238,Singapore,Mainland,CCNR,F,3.475
+B239,Singapore,Mainland,CCNR,F,3
+B240,Singapore,Mainland,CCNR,F,3.15
+B241,Singapore,Mainland,CCNR,F,3.1
+B242,Singapore,Mainland,CCNR,F,3.65
+B243,Singapore,Mainland,CCNR,F,4.1
+B244,Singapore,Mainland,CCNR,F,2.65
+B245,Singapore,Mainland,CCNR,F,3.3
+B246,Singapore,Mainland,CCNR,F,3.35
+B247,Singapore,Mainland,CCNR,F,3.65
+B248,Singapore,Mainland,CCNR,F,3.775
+B249,Singapore,Mainland,CCNR,F,3.8
+B250,Singapore,Mainland,CCNR,F,3.55
+B251,Singapore,Mainland,CCNR,F,3.9
+B265,Singapore,Mainland,CCNR,F,4.1
+B202,Singapore,Mainland,CCNR,F,4.1
+B394,Singapore,Mainland,CCNR,F,3.2
+B395,Singapore,Mainland,CCNR,F,3.75
+B29,Singapore,Island,Pulau Ubin,M,3.65
+B30,Singapore,Island,Pulau Ubin,M,3.9
+B31,Singapore,Island,Pulau Ubin,M,3.8
+B32,Singapore,Island,Pulau Ubin,M,4.225
+B33,Singapore,Island,Pulau Ubin,M,3.5
+B35,Singapore,Island,Pulau Ubin,M,4
+B95,Singapore,Island,Pulau Ubin,M,3.8
+B96,Singapore,Island,Pulau Ubin,M,4.05
+B97,Singapore,Island,Pulau Ubin,M,3.6
+B98,Singapore,Island,Pulau Ubin,M,3.825
+B99,Singapore,Island,Pulau Ubin,M,4.05
+B100,Singapore,Island,Pulau Ubin,M,3.875
+B101,Singapore,Island,Pulau Ubin,M,3.45
+B102,Singapore,Island,Pulau Ubin,M,3.625
+B103,Singapore,Island,Pulau Ubin,M,3.85
+B104,Singapore,Island,Pulau Ubin,M,3.375
+B121,Singapore,Island,Pulau Ubin,M,3.875
+B122,Singapore,Island,Pulau Ubin,M,3.9
+B123,Singapore,Island,Pulau Ubin,M,3.4
+B124,Singapore,Island,Pulau Ubin,M,4.05
+B125,Singapore,Island,Pulau Ubin,M,3.95
+B126,Singapore,Island,Pulau Ubin,M,3.95
+B127,Singapore,Island,Pulau Ubin,M,3.9
+B128,Singapore,Island,Pulau Ubin,M,4
+B129,Singapore,Island,Pulau Ubin,M,3.7
+B130,Singapore,Island,Pulau Ubin,M,3.95
+B132,Singapore,Island,Pulau Ubin,M,3.45
+B133,Singapore,Island,Pulau Ubin,M,3.8
+B134,Singapore,Island,Pulau Ubin,M,3.85
+B135,Singapore,Island,Pulau Ubin,M,4.1
+B136,Singapore,Island,Pulau Ubin,M,3.85
+B138,Singapore,Island,Pulau Ubin,M,3.65
+B139,Singapore,Island,Pulau Ubin,M,3.6
+B140,Singapore,Island,Pulau Ubin,M,3.65
+B141,Singapore,Island,Pulau Ubin,M,3.65
+B142,Singapore,Island,Pulau Ubin,M,3.925
+B143,Singapore,Island,Pulau Ubin,M,3.675
+B144,Singapore,Island,Pulau Ubin,M,3.9
+B146,Singapore,Island,Pulau Ubin,M,3.75
+B147,Singapore,Island,Pulau Ubin,M,3.85
+B148,Singapore,Island,Pulau Ubin,M,3.85
+B149,Singapore,Island,Pulau Ubin,M,4
+B150,Singapore,Island,Pulau Ubin,M,3.65
+B151,Singapore,Island,Pulau Ubin,M,4
+B152,Singapore,Island,Pulau Ubin,M,3.65
+B153,Singapore,Island,Pulau Ubin,M,3.8
+B154,Singapore,Island,Pulau Ubin,M,3.775
+B201,Singapore,Island,Pulau Ubin,M,4.25
+B386,Singapore,Island,Pulau Ubin,M,3.55
+B387,Singapore,Island,Pulau Ubin,M,3.55
+B392,Singapore,Island,Pulau Ubin,M,3.9
+B404,Singapore,Island,Pulau Ubin,M,3.95
+B405,Singapore,Island,Pulau Ubin,M,3.55
+B406,Singapore,Island,Pulau Ubin,M,3.95
+B407,Singapore,Island,Pulau Ubin,M,3.575
+B420,Singapore,Island,Pulau Ubin,M,3.8
+B421,Singapore,Island,Pulau Ubin,M,3.9
+B428,Singapore,Island,Pulau Ubin,M,4.3
+B429,Singapore,Island,Pulau Ubin,M,3.5
+B430,Singapore,Island,Pulau Ubin,M,3.65
+B425,Singapore,Island,Pulau Ubin,M,4.25
+B433,Singapore,Island,Pulau Ubin,M,3.35
+B56,Singapore,Island,Pulau Ubin,F,3.8
+B57,Singapore,Island,Pulau Ubin,F,3.45
+B157,Singapore,Island,Pulau Ubin,F,2.75
+B158,Singapore,Island,Pulau Ubin,F,2.4
+B159,Singapore,Island,Pulau Ubin,F,2.5
+B160,Singapore,Island,Pulau Ubin,F,3.2
+B161,Singapore,Island,Pulau Ubin,F,3.15
+B162,Singapore,Island,Pulau Ubin,F,2.95
+B163,Singapore,Island,Pulau Ubin,F,2.75
+B164,Singapore,Island,Pulau Ubin,F,2.8
+B165,Singapore,Island,Pulau Ubin,F,2.95
+B166,Singapore,Island,Pulau Ubin,F,3.55
+B167,Singapore,Island,Pulau Ubin,F,3.525
+B168,Singapore,Island,Pulau Ubin,F,3.45
+B169,Singapore,Island,Pulau Ubin,F,3.25
+B170,Singapore,Island,Pulau Ubin,F,3.85
+B171,Singapore,Island,Pulau Ubin,F,3.6
+B172,Singapore,Island,Pulau Ubin,F,3.25
+B173,Singapore,Island,Pulau Ubin,F,3.25
+B174,Singapore,Island,Pulau Ubin,F,3.65
+B175,Singapore,Island,Pulau Ubin,F,3.45
+B176,Singapore,Island,Pulau Ubin,F,3.95
+B177,Singapore,Island,Pulau Ubin,F,3.725
+B179,Singapore,Island,Pulau Ubin,F,3.45
+B204,Singapore,Island,Pulau Ubin,F,3.15
+B205,Singapore,Island,Pulau Ubin,F,3.475
+B206,Singapore,Island,Pulau Ubin,F,3.825
+B207,Singapore,Island,Pulau Ubin,F,3.7
+B208,Singapore,Island,Pulau Ubin,F,3.9
+B229,Singapore,Island,Pulau Ubin,F,4.05
+B230,Singapore,Island,Pulau Ubin,F,2.9
+B232,Singapore,Island,Pulau Ubin,F,3.425
+B233,Singapore,Island,Pulau Ubin,F,3.1
+B181,Singapore,Island,Pulau Ubin,F,3.35
+B182,Singapore,Island,Pulau Ubin,F,3.8
+B184,Singapore,Island,Pulau Ubin,F,3.35
+B185,Singapore,Island,Pulau Ubin,F,3.35
+B186,Singapore,Island,Pulau Ubin,F,3.65
+B187,Singapore,Island,Pulau Ubin,F,3.25
+B188,Singapore,Island,Pulau Ubin,F,3.6
+B189,Singapore,Island,Pulau Ubin,F,3.3
+B234,Singapore,Island,Pulau Ubin,F,3.9
+B235,Singapore,Island,Pulau Ubin,F,3.225
+B253,Singapore,Island,Pulau Ubin,F,3.25
+B254,Singapore,Island,Pulau Ubin,F,3.225
+B255,Singapore,Island,Pulau Ubin,F,2.8
+B256,Singapore,Island,Pulau Ubin,F,3.575
+B257,Singapore,Island,Pulau Ubin,F,3.925
+B258,Singapore,Island,Pulau Ubin,F,3.175
+B259,Singapore,Island,Pulau Ubin,F,3.2
+B260,Singapore,Island,Pulau Ubin,F,2.975
+B262,Singapore,Island,Pulau Ubin,F,3.8
+B263,Singapore,Island,Pulau Ubin,F,3.675
+B264,Singapore,Island,Pulau Ubin,F,3.725
+B389,Singapore,Island,Pulau Ubin,F,3.65
+B390,Singapore,Island,Pulau Ubin,F,3.025
+B391,Singapore,Island,Pulau Ubin,F,3.875
+B131,Singapore,Island,Pulau Ubin,F,3.4
+B423,Singapore,Island,Pulau Ubin,F,3.25
+B292,Malaysia,Mainland,Central peninsular MY,M,4.25
+B293,Malaysia,Mainland,Central peninsular MY,M,4.15
+B294,Malaysia,Mainland,Central peninsular MY,M,3.9
+B295,Malaysia,Mainland,Central peninsular MY,M,4.25
+B296,Malaysia,Mainland,Central peninsular MY,M,4.15
+B297,Malaysia,Mainland,Central peninsular MY,M,4
+B298,Malaysia,Mainland,Central peninsular MY,M,4.1
+B299,Malaysia,Mainland,Central peninsular MY,M,3.5
+B300,Malaysia,Mainland,Central peninsular MY,M,3.925
+B301,Malaysia,Mainland,Central peninsular MY,M,3.8
+B302,Malaysia,Mainland,Central peninsular MY,M,4.2
+B303,Malaysia,Mainland,Central peninsular MY,M,3.85
+B304,Malaysia,Mainland,Central peninsular MY,M,3.975
+B305,Malaysia,Mainland,Central peninsular MY,M,3.975
+B306,Malaysia,Mainland,Central peninsular MY,M,3.8
+B327,Malaysia,Mainland,Central peninsular MY,M,4.3
+B328,Malaysia,Mainland,Central peninsular MY,M,4.175
+B329,Malaysia,Mainland,Central peninsular MY,M,3.8
+B330,Malaysia,Mainland,Central peninsular MY,M,3.5
+B331,Malaysia,Mainland,Central peninsular MY,M,3.65
+B332,Malaysia,Mainland,Central peninsular MY,M,3.85
+B333,Malaysia,Mainland,Central peninsular MY,M,3.75
+B334,Malaysia,Mainland,Central peninsular MY,M,3.7
+B335,Malaysia,Mainland,Central peninsular MY,M,3.5
+B336,Malaysia,Mainland,Central peninsular MY,M,3.65
+MB190,Malaysia,Mainland,Central peninsular MY,M,3.4
+MB192,Malaysia,Mainland,Central peninsular MY,M,3.85
+MB193,Malaysia,Mainland,Central peninsular MY,M,3.725
+MB194,Malaysia,Mainland,Central peninsular MY,M,3.8
+MB195,Malaysia,Mainland,Central peninsular MY,M,4
+MB196,Malaysia,Mainland,Central peninsular MY,M,3.95
+MB197,Malaysia,Mainland,Central peninsular MY,M,3.85
+MB198,Malaysia,Mainland,Central peninsular MY,M,3.8
+MB199,Malaysia,Mainland,Central peninsular MY,M,3.75
+MB200,Malaysia,Mainland,Central peninsular MY,M,3.4
+MB201,Malaysia,Mainland,Central peninsular MY,M,3.45
+MB202,Malaysia,Mainland,Central peninsular MY,M,3.5
+MB203,Malaysia,Mainland,Central peninsular MY,M,3.2
+MB204,Malaysia,Mainland,Central peninsular MY,M,4.1
+MB205,Malaysia,Mainland,Central peninsular MY,M,3.8
+MB206,Malaysia,Mainland,Central peninsular MY,M,3.85
+MB207,Malaysia,Mainland,Central peninsular MY,M,3.75
+MB208,Malaysia,Mainland,Central peninsular MY,M,3.8
+MB209,Malaysia,Mainland,Central peninsular MY,M,3.925
+MB210,Malaysia,Mainland,Central peninsular MY,M,4.025
+MB339,Malaysia,Mainland,Central peninsular MY,M,4.025
+MB340,Malaysia,Mainland,Central peninsular MY,M,3.8
+MB341,Malaysia,Mainland,Central peninsular MY,M,3.5
+B275,Malaysia,Mainland,Central peninsular MY,F,3.8
+B276,Malaysia,Mainland,Central peninsular MY,F,3.9
+B277,Malaysia,Mainland,Central peninsular MY,F,3.7
+B278,Malaysia,Mainland,Central peninsular MY,F,3.9
+B279,Malaysia,Mainland,Central peninsular MY,F,3.5
+B280,Malaysia,Mainland,Central peninsular MY,F,3
+B281,Malaysia,Mainland,Central peninsular MY,F,4.275
+B282,Malaysia,Mainland,Central peninsular MY,F,4.15
+B283,Malaysia,Mainland,Central peninsular MY,F,3.8
+B284,Malaysia,Mainland,Central peninsular MY,F,3.8
+B285,Malaysia,Mainland,Central peninsular MY,F,3.9
+B286,Malaysia,Mainland,Central peninsular MY,F,3.4
+B287,Malaysia,Mainland,Central peninsular MY,F,3.45
+B288,Malaysia,Mainland,Central peninsular MY,F,4.1
+B289,Malaysia,Mainland,Central peninsular MY,F,3.95
+B307,Malaysia,Mainland,Central peninsular MY,F,3.8
+B308,Malaysia,Mainland,Central peninsular MY,F,4
+B309,Malaysia,Mainland,Central peninsular MY,F,3.125
+B310,Malaysia,Mainland,Central peninsular MY,F,4.05
+B311,Malaysia,Mainland,Central peninsular MY,F,4.175
+B312,Malaysia,Mainland,Central peninsular MY,F,3.75
+B313,Malaysia,Mainland,Central peninsular MY,F,3.875
+B314,Malaysia,Mainland,Central peninsular MY,F,3.55
+B315,Malaysia,Mainland,Central peninsular MY,F,3.45
+B316,Malaysia,Mainland,Central peninsular MY,F,3.85
+MB1,Malaysia,Mainland,Central peninsular MY,F,2.7
+MB3,Malaysia,Mainland,Central peninsular MY,F,3.775
+MB4,Malaysia,Mainland,Central peninsular MY,F,3.775
+MB5,Malaysia,Mainland,Central peninsular MY,F,3.775
+MB6,Malaysia,Mainland,Central peninsular MY,F,3.15
+MB7,Malaysia,Mainland,Central peninsular MY,F,3.6
+MB8,Malaysia,Mainland,Central peninsular MY,F,3.95
+MB9,Malaysia,Mainland,Central peninsular MY,F,4
+MB10,Malaysia,Mainland,Central peninsular MY,F,3.75
+MB11,Malaysia,Mainland,Central peninsular MY,F,3.2
+MB12,Malaysia,Mainland,Central peninsular MY,F,3.5
+MB13,Malaysia,Mainland,Central peninsular MY,F,4.2
+MB14,Malaysia,Mainland,Central peninsular MY,F,3.625
+MB15,Malaysia,Mainland,Central peninsular MY,F,3.85
+MB16,Malaysia,Mainland,Central peninsular MY,F,3.7
+MB17,Malaysia,Mainland,Central peninsular MY,F,3.075
+MB18,Malaysia,Mainland,Central peninsular MY,F,3.75
+MB181,Malaysia,Mainland,Central peninsular MY,F,4.125
+MB182,Malaysia,Mainland,Central peninsular MY,F,3.7
+MB183,Malaysia,Mainland,Central peninsular MY,F,4.275
+MB185,Malaysia,Mainland,Central peninsular MY,F,3.675
+MB186,Malaysia,Mainland,Central peninsular MY,F,4.1
+MB187,Malaysia,Mainland,Central peninsular MY,F,3.7
+MB188,Malaysia,Mainland,Central peninsular MY,F,3.8
+B352,Malaysia,Island,Langkawi,M,3.75
+B353,Malaysia,Island,Langkawi,M,3.65
+B354,Malaysia,Island,Langkawi,M,3.775
+B355,Malaysia,Island,Langkawi,M,3.7
+B356,Malaysia,Island,Langkawi,M,3.55
+B357,Malaysia,Island,Langkawi,M,3.85
+B358,Malaysia,Island,Langkawi,M,3.65
+B359,Malaysia,Island,Langkawi,M,3.925
+B376,Malaysia,Island,Langkawi,M,3.85
+B377,Malaysia,Island,Langkawi,M,3.55
+B378,Malaysia,Island,Langkawi,M,3.975
+B379,Malaysia,Island,Langkawi,M,3.775
+B380,Malaysia,Island,Langkawi,M,4
+B381,Malaysia,Island,Langkawi,M,3.75
+B382,Malaysia,Island,Langkawi,M,4.225
+B383,Malaysia,Island,Langkawi,M,3.85
+B384,Malaysia,Island,Langkawi,M,3.95
+MB211,Malaysia,Island,Langkawi,M,4.05
+MB212,Malaysia,Island,Langkawi,M,4.2
+MB213,Malaysia,Island,Langkawi,M,4.25
+MB214,Malaysia,Island,Langkawi,M,3.875
+MB215,Malaysia,Island,Langkawi,M,3.85
+MB216,Malaysia,Island,Langkawi,M,3.725
+MB217,Malaysia,Island,Langkawi,M,3.65
+MB218,Malaysia,Island,Langkawi,M,3.85
+MB219,Malaysia,Island,Langkawi,M,3.375
+MB220,Malaysia,Island,Langkawi,M,4.25
+MB221,Malaysia,Island,Langkawi,M,3.7
+MB222,Malaysia,Island,Langkawi,M,3.8
+MB223,Malaysia,Island,Langkawi,M,4.3
+MB224,Malaysia,Island,Langkawi,M,3.875
+MB225,Malaysia,Island,Langkawi,M,3.45
+MB226,Malaysia,Island,Langkawi,M,4
+MB227,Malaysia,Island,Langkawi,M,4.275
+MB228,Malaysia,Island,Langkawi,M,4.05
+MB229,Malaysia,Island,Langkawi,M,4.25
+MB230,Malaysia,Island,Langkawi,M,3.85
+MB231,Malaysia,Island,Langkawi,M,4
+MB232,Malaysia,Island,Langkawi,M,3.95
+MB233,Malaysia,Island,Langkawi,M,3.6
+MB234,Malaysia,Island,Langkawi,M,4.1
+MB235,Malaysia,Island,Langkawi,M,4
+MB236,Malaysia,Island,Langkawi,M,4
+MB237,Malaysia,Island,Langkawi,M,4.175
+MB238,Malaysia,Island,Langkawi,M,3.6
+MB239,Malaysia,Island,Langkawi,M,4.15
+MB240,Malaysia,Island,Langkawi,M,3.775
+MB241,Malaysia,Island,Langkawi,M,3.625
+MB242,Malaysia,Island,Langkawi,M,4.125
+MB243,Malaysia,Island,Langkawi,M,4
+MB244,Malaysia,Island,Langkawi,M,4.2
+MB245,Malaysia,Island,Langkawi,M,3.55
+MB247,Malaysia,Island,Langkawi,M,3.9
+MB248,Malaysia,Island,Langkawi,M,3.4
+MB249,Malaysia,Island,Langkawi,M,4.125
+MB250,Malaysia,Island,Langkawi,M,3.6
+MB251,Malaysia,Island,Langkawi,M,4.225
+MB252,Malaysia,Island,Langkawi,M,4.325
+MB253,Malaysia,Island,Langkawi,M,4.175
+MB254,Malaysia,Island,Langkawi,M,3.925
+MB255,Malaysia,Island,Langkawi,M,4
+MB256,Malaysia,Island,Langkawi,M,3.925
+MB257,Malaysia,Island,Langkawi,M,3.95
+MB258,Malaysia,Island,Langkawi,M,4.175
+MB259,Malaysia,Island,Langkawi,M,4.05
+MB260,Malaysia,Island,Langkawi,M,4.025
+MB261,Malaysia,Island,Langkawi,M,4.05
+MB262,Malaysia,Island,Langkawi,M,4.425
+MB263,Malaysia,Island,Langkawi,M,4
+MB264,Malaysia,Island,Langkawi,M,4.175
+MB265,Malaysia,Island,Langkawi,M,3.925
+MB266,Malaysia,Island,Langkawi,M,4.125
+MB267,Malaysia,Island,Langkawi,M,3.825
+MB268,Malaysia,Island,Langkawi,M,4.25
+MB269,Malaysia,Island,Langkawi,M,4
+MB270,Malaysia,Island,Langkawi,M,4.05
+MB271,Malaysia,Island,Langkawi,M,3.8
+MB272,Malaysia,Island,Langkawi,M,3.85
+MB273,Malaysia,Island,Langkawi,M,3.75
+MB274,Malaysia,Island,Langkawi,M,3.375
+MB275,Malaysia,Island,Langkawi,M,4.125
+MB276,Malaysia,Island,Langkawi,M,3.35
+MB277,Malaysia,Island,Langkawi,M,4.05
+MB281,Malaysia,Island,Langkawi,M,4.275
+MB282,Malaysia,Island,Langkawi,M,4.3
+MB283,Malaysia,Island,Langkawi,M,4.15
+MB284,Malaysia,Island,Langkawi,M,4.2
+MB285,Malaysia,Island,Langkawi,M,3.925
+MB286,Malaysia,Island,Langkawi,M,3.55
+MB287,Malaysia,Island,Langkawi,M,3.85
+MB288,Malaysia,Island,Langkawi,M,3.725
+MB289,Malaysia,Island,Langkawi,M,4.1
+MB290,Malaysia,Island,Langkawi,M,4.45
+MB291,Malaysia,Island,Langkawi,M,4.1
+MB292,Malaysia,Island,Langkawi,M,4.35
+MB293,Malaysia,Island,Langkawi,M,4.075
+MB294,Malaysia,Island,Langkawi,M,4.2
+MB295,Malaysia,Island,Langkawi,M,4.125
+MB296,Malaysia,Island,Langkawi,M,3.75
+MB297,Malaysia,Island,Langkawi,M,4.05
+MB298,Malaysia,Island,Langkawi,M,3.925
+MB300,Malaysia,Island,Langkawi,M,3.95
+MB301,Malaysia,Island,Langkawi,M,4.05
+MB302,Malaysia,Island,Langkawi,M,4.3
+MB303,Malaysia,Island,Langkawi,M,4.1
+MB304,Malaysia,Island,Langkawi,M,4.275
+MB305,Malaysia,Island,Langkawi,M,3.7
+MB306,Malaysia,Island,Langkawi,M,3.9
+MB307,Malaysia,Island,Langkawi,M,3.925
+MB308,Malaysia,Island,Langkawi,M,3.4
+MB309,Malaysia,Island,Langkawi,M,4.175
+MB310,Malaysia,Island,Langkawi,M,4
+MB311,Malaysia,Island,Langkawi,M,4.225
+MB312,Malaysia,Island,Langkawi,M,3.5
+MB313,Malaysia,Island,Langkawi,M,3.7
+MB314,Malaysia,Island,Langkawi,M,3.5
+MB315,Malaysia,Island,Langkawi,M,4.2
+MB316,Malaysia,Island,Langkawi,M,3.725
+MB317,Malaysia,Island,Langkawi,M,4.05
+MB318,Malaysia,Island,Langkawi,M,3.9
+MB319,Malaysia,Island,Langkawi,M,3.95
+MB320,Malaysia,Island,Langkawi,M,4.4
+MB321,Malaysia,Island,Langkawi,M,3.9
+MB322,Malaysia,Island,Langkawi,M,4.2
+MB323,Malaysia,Island,Langkawi,M,3.65
+MB324,Malaysia,Island,Langkawi,M,3.8
+MB325,Malaysia,Island,Langkawi,M,3.4
+MB326,Malaysia,Island,Langkawi,M,3.875
+MB327,Malaysia,Island,Langkawi,M,3.4
+MB328,Malaysia,Island,Langkawi,M,3.425
+MB329,Malaysia,Island,Langkawi,M,3.875
+MB330,Malaysia,Island,Langkawi,M,3.525
+MB332,Malaysia,Island,Langkawi,M,3.85
+MB333,Malaysia,Island,Langkawi,M,3.6
+MB334,Malaysia,Island,Langkawi,M,4.05
+MB335,Malaysia,Island,Langkawi,M,3.975
+MB336,Malaysia,Island,Langkawi,M,3.725
+MB337,Malaysia,Island,Langkawi,M,3.95
+MB338,Malaysia,Island,Langkawi,M,3.95
+MB343,Malaysia,Island,Langkawi,M,4.175
+B337,Malaysia,Island,Langkawi,F,4.3
+B338,Malaysia,Island,Langkawi,F,4
+B339,Malaysia,Island,Langkawi,F,3.9
+B340,Malaysia,Island,Langkawi,F,3.9
+B341,Malaysia,Island,Langkawi,F,3.95
+B342,Malaysia,Island,Langkawi,F,4.025
+B343,Malaysia,Island,Langkawi,F,3.95
+B344,Malaysia,Island,Langkawi,F,4.1
+B360,Malaysia,Island,Langkawi,F,3.725
+B361,Malaysia,Island,Langkawi,F,3.6
+B362,Malaysia,Island,Langkawi,F,3.95
+B363,Malaysia,Island,Langkawi,F,3.775
+B364,Malaysia,Island,Langkawi,F,3.85
+B365,Malaysia,Island,Langkawi,F,3.425
+B366,Malaysia,Island,Langkawi,F,3.6
+B367,Malaysia,Island,Langkawi,F,3.5
+B368,Malaysia,Island,Langkawi,F,3.45
+MB19,Malaysia,Island,Langkawi,F,3.875
+MB20,Malaysia,Island,Langkawi,F,4.1
+MB21,Malaysia,Island,Langkawi,F,3.9
+MB22,Malaysia,Island,Langkawi,F,4.125
+MB23,Malaysia,Island,Langkawi,F,4.275
+MB24,Malaysia,Island,Langkawi,F,3.475
+MB25,Malaysia,Island,Langkawi,F,4.325
+MB26,Malaysia,Island,Langkawi,F,3.7
+MB27,Malaysia,Island,Langkawi,F,4.2
+MB28,Malaysia,Island,Langkawi,F,3.75
+MB29,Malaysia,Island,Langkawi,F,3.425
+MB30,Malaysia,Island,Langkawi,F,4.05
+MB31,Malaysia,Island,Langkawi,F,3.3
+MB32,Malaysia,Island,Langkawi,F,4
+MB33,Malaysia,Island,Langkawi,F,3.75
+MB34,Malaysia,Island,Langkawi,F,4.35
+MB35,Malaysia,Island,Langkawi,F,4.175
+MB36,Malaysia,Island,Langkawi,F,3.925
+MB37,Malaysia,Island,Langkawi,F,4.225
+MB38,Malaysia,Island,Langkawi,F,3.85
+MB39,Malaysia,Island,Langkawi,F,4.05
+MB40,Malaysia,Island,Langkawi,F,3.65
+MB41,Malaysia,Island,Langkawi,F,4.125
+MB42,Malaysia,Island,Langkawi,F,4.2
+MB43,Malaysia,Island,Langkawi,F,3.775
+MB44,Malaysia,Island,Langkawi,F,3.825
+MB45,Malaysia,Island,Langkawi,F,3.65
+MB46,Malaysia,Island,Langkawi,F,4.1
+MB47,Malaysia,Island,Langkawi,F,3.85
+MB48,Malaysia,Island,Langkawi,F,4.1
+MB49,Malaysia,Island,Langkawi,F,3.675
+MB50,Malaysia,Island,Langkawi,F,3.55
+MB51,Malaysia,Island,Langkawi,F,4.2
+MB52,Malaysia,Island,Langkawi,F,4.05
+MB53,Malaysia,Island,Langkawi,F,4
+MB54,Malaysia,Island,Langkawi,F,3.875
+MB55,Malaysia,Island,Langkawi,F,3.6
+MB56,Malaysia,Island,Langkawi,F,4.2
+MB57,Malaysia,Island,Langkawi,F,3.95
+MB59,Malaysia,Island,Langkawi,F,4.225
+MB60,Malaysia,Island,Langkawi,F,4.1
+MB61,Malaysia,Island,Langkawi,F,4.05
+MB62,Malaysia,Island,Langkawi,F,3.9
+MB63,Malaysia,Island,Langkawi,F,4.2
+MB64,Malaysia,Island,Langkawi,F,3.65
+MB65,Malaysia,Island,Langkawi,F,3.1
+MB66,Malaysia,Island,Langkawi,F,3.7
+MB67,Malaysia,Island,Langkawi,F,3.2
+MB68,Malaysia,Island,Langkawi,F,3.975
+MB69,Malaysia,Island,Langkawi,F,3.9
+MB70,Malaysia,Island,Langkawi,F,4.2
+MB71,Malaysia,Island,Langkawi,F,3.85
+MB72,Malaysia,Island,Langkawi,F,3.075
+MB73,Malaysia,Island,Langkawi,F,4.2
+MB74,Malaysia,Island,Langkawi,F,3.8
+MB75,Malaysia,Island,Langkawi,F,3.75
+MB76,Malaysia,Island,Langkawi,F,3.625
+MB77,Malaysia,Island,Langkawi,F,3.725
+MB78,Malaysia,Island,Langkawi,F,4
+MB79,Malaysia,Island,Langkawi,F,4.2
+MB80,Malaysia,Island,Langkawi,F,3.15
+MB81,Malaysia,Island,Langkawi,F,3.9
+MB82,Malaysia,Island,Langkawi,F,3.95
+MB83,Malaysia,Island,Langkawi,F,3.925
+MB84,Malaysia,Island,Langkawi,F,3.925
+MB85,Malaysia,Island,Langkawi,F,3.575
+MB86,Malaysia,Island,Langkawi,F,4.1
+MB88,Malaysia,Island,Langkawi,F,3.95
+MB89,Malaysia,Island,Langkawi,F,4.35
+MB90,Malaysia,Island,Langkawi,F,4.2
+MB91,Malaysia,Island,Langkawi,F,3.65
+MB92,Malaysia,Island,Langkawi,F,4.2
+MB93,Malaysia,Island,Langkawi,F,4
+MB94,Malaysia,Island,Langkawi,F,3.9
+MB95,Malaysia,Island,Langkawi,F,4
+MB96,Malaysia,Island,Langkawi,F,3.9
+MB97,Malaysia,Island,Langkawi,F,3.75
+MB98,Malaysia,Island,Langkawi,F,4.2
+MB99,Malaysia,Island,Langkawi,F,4.225
+MB100,Malaysia,Island,Langkawi,F,4.15
+MB101,Malaysia,Island,Langkawi,F,3.275
+MB102,Malaysia,Island,Langkawi,F,3.85
+MB103,Malaysia,Island,Langkawi,F,3.95
+MB104,Malaysia,Island,Langkawi,F,3.875
+MB105,Malaysia,Island,Langkawi,F,3.95
+MB106,Malaysia,Island,Langkawi,F,3.8
+MB107,Malaysia,Island,Langkawi,F,3.6
+MB108,Malaysia,Island,Langkawi,F,4.2
+MB109,Malaysia,Island,Langkawi,F,3.75
+MB110,Malaysia,Island,Langkawi,F,4.1
+MB111,Malaysia,Island,Langkawi,F,3.9
+MB112,Malaysia,Island,Langkawi,F,3.7
+MB113,Malaysia,Island,Langkawi,F,3.85
+MB114,Malaysia,Island,Langkawi,F,3.95
+MB115,Malaysia,Island,Langkawi,F,3.95
+MB116,Malaysia,Island,Langkawi,F,4.125
+MB117,Malaysia,Island,Langkawi,F,4.075
+MB118,Malaysia,Island,Langkawi,F,3.95
+MB119,Malaysia,Island,Langkawi,F,4.025
+MB120,Malaysia,Island,Langkawi,F,3.55
+MB121,Malaysia,Island,Langkawi,F,3.8
+MB122,Malaysia,Island,Langkawi,F,3.775
+MB123,Malaysia,Island,Langkawi,F,3.7
+MB124,Malaysia,Island,Langkawi,F,3.85
+MB125,Malaysia,Island,Langkawi,F,4.1
+MB126,Malaysia,Island,Langkawi,F,4.075
+MB127,Malaysia,Island,Langkawi,F,3.85
+MB128,Malaysia,Island,Langkawi,F,3.65
+MB129,Malaysia,Island,Langkawi,F,3.075
+MB130,Malaysia,Island,Langkawi,F,4
+MB131,Malaysia,Island,Langkawi,F,3.2
+MB132,Malaysia,Island,Langkawi,F,3.5
+MB133,Malaysia,Island,Langkawi,F,4
+MB134,Malaysia,Island,Langkawi,F,3.95
+MB135,Malaysia,Island,Langkawi,F,2.9
+MB136,Malaysia,Island,Langkawi,F,3.825
+MB137,Malaysia,Island,Langkawi,F,2.85
+MB138,Malaysia,Island,Langkawi,F,3.95
+MB139,Malaysia,Island,Langkawi,F,3.975
+MB140,Malaysia,Island,Langkawi,F,3.3
+MB141,Malaysia,Island,Langkawi,F,3.85
+MB142,Malaysia,Island,Langkawi,F,3.5
+MB143,Malaysia,Island,Langkawi,F,3.025
+MB144,Malaysia,Island,Langkawi,F,4.05
+MB145,Malaysia,Island,Langkawi,F,3.875
+MB146,Malaysia,Island,Langkawi,F,3.5
+MB147,Malaysia,Island,Langkawi,F,3.85
+MB148,Malaysia,Island,Langkawi,F,3.2
+MB149,Malaysia,Island,Langkawi,F,3.575
+MB150,Malaysia,Island,Langkawi,F,3.45
+MB151,Malaysia,Island,Langkawi,F,3.4
+MB152,Malaysia,Island,Langkawi,F,3.225
+MB153,Malaysia,Island,Langkawi,F,3.45
+MB154,Malaysia,Island,Langkawi,F,3.5
+MB155,Malaysia,Island,Langkawi,F,3.6
+MB156,Malaysia,Island,Langkawi,F,3.5
+MB157,Malaysia,Island,Langkawi,F,4.25
+MB158,Malaysia,Island,Langkawi,F,3.525
+MB159,Malaysia,Island,Langkawi,F,3.8
+MB160,Malaysia,Island,Langkawi,F,3.6
+MB161,Malaysia,Island,Langkawi,F,3.3
+MB162,Malaysia,Island,Langkawi,F,3.75
+MB163,Malaysia,Island,Langkawi,F,3.9
+MB164,Malaysia,Island,Langkawi,F,2.95
+MB165,Malaysia,Island,Langkawi,F,3.65
+MB166,Malaysia,Island,Langkawi,F,4.15
+MB167,Malaysia,Island,Langkawi,F,3.575
+MB168,Malaysia,Island,Langkawi,F,3.275
+MB169,Malaysia,Island,Langkawi,F,3.6
+MB170,Malaysia,Island,Langkawi,F,3.025
+MB171,Malaysia,Island,Langkawi,F,3.975
+MB173,Malaysia,Island,Langkawi,F,4.05
+MB174,Malaysia,Island,Langkawi,F,4.1
+MB175,Malaysia,Island,Langkawi,F,3.675
+MB176,Malaysia,Island,Langkawi,F,3.55
+MB177,Malaysia,Island,Langkawi,F,4.175
+MB178,Malaysia,Island,Langkawi,F,3.65
+MB179,Malaysia,Island,Langkawi,F,3.85
+MB342,Malaysia,Island,Langkawi,F,4.1
+MB278,Malaysia,Island,Langkawi,F,3.95
+MB280,Malaysia,Island,Langkawi,F,4.25
