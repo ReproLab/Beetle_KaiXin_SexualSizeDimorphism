@@ -2,6 +2,8 @@
 
 Hi welcome!
 
+This repo is created by Toh Kai Xin, MSc student during AY2019/20 - AY2020/21, who is working on Condition dependent expression of sexual size dimorphism in Onthophagus cf. babirussa.
+
 1. You can find codes for my box plot here. I'm using this box plot to illustrate the comparison of female and male body size to determine SSD in O. cf. babirussa across Malaysian (MY) populations: Langkawi, Central Peninsula MY and Singapore(SG) population: Pulau Ubin and CCNR.
 The file is named "boxplot_SSD.R"
 
