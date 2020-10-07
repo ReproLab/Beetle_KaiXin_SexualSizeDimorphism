@@ -30,9 +30,46 @@ kruskal.test(BS~Sex, data =Langkawi)
 #read data for across population comparisons
 combined <- read.csv("combined.csv")
 
-#Kruskal-Wallis for between population
+#Kruskal-Wallis for body size between population
 kruskal.test(BS~Population, data =combined)
 
-#Kruskal-Wallis for between country
+#Kruskal-Wallis for body size between country
 kruskal.test(BS~Country, data =combined)
+
+#Kruskal-Wallis for body size between males across population
+males <- dplyr::filter(combined, Sex == "M")
+males$Country <- as.factor(males$Country)
+males$Population <- as.factor(males$Population)
+str(males)
+kruskal.test(BS~Population, data = males)
+##p-value = 0.001059 --> conduct post hoc test: Dunn test
+#https://rcompanion.org/handbook/F_08.html
+library("FSA")
+DT = dunnTest(BS ~ Population,
+              data=males,
+              method="bh")  
+DT
+PT = DT$res
+PT
+library(rcompanion)
+cldList(P.adj ~ Comparison,
+        data = PT,
+        threshold = 0.05)
+#Groups sharing a letter not signficantly different (alpha = 0.05).
+
+#Kruskal-Wallis for body size between Females across country
+females <- dplyr::filter(combined, Sex == "F")
+kruskal.test(BS~Population, data =females)
+DT = dunnTest(BS ~ Population,
+              data=females,
+              method="bh")  
+DT
+PT = DT$res
+PT
+library(rcompanion)
+cldList(P.adj ~ Comparison,
+        data = PT,
+        threshold = 0.05)
+
+kruskal.test(BS~Country, data =females)
 

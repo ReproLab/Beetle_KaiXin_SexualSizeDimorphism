@@ -83,3 +83,94 @@ Kruskal-Wallis chi-squared = 64.713, df = 3, p-value = 5.778e-14
 
 data:  BS by Country
 Kruskal-Wallis chi-squared = 58.619, df = 1, p-value = 1.913e-14
+
+
+> #Kruskal-Wallis for body size between males across population
+> males <- dplyr::filter(combined, Sex == "M")
+> males$Country <- as.factor(males$Country)
+> males$Population <- as.factor(males$Population)
+> kruskal.test(BS~Population, data = males)
+
+	Kruskal-Wallis rank sum test
+
+data:  BS by Population
+Kruskal-Wallis chi-squared = 16.145, df = 3, p-value = 0.001059
+
+> DT = dunnTest(BS ~ Population,
++               data=males,
++               method="bh")  
+> DT
+Dunn (1964) Kruskal-Wallis multiple comparison
+  p-values adjusted with the Benjamini-Hochberg method.
+
+                          Comparison           Z      P.unadj       P.adj
+1       CCNR - Central peninsular MY -0.59130760 0.5543143414 0.665177210
+2                    CCNR - Langkawi -2.93740072 0.0033097613 0.009929284
+3   Central peninsular MY - Langkawi -2.19705752 0.0280163384 0.056032677
+4                  CCNR - Pulau Ubin  0.08271221 0.9340803770 0.934080377
+5 Central peninsular MY - Pulau Ubin  0.70683341 0.4796700117 0.719505018
+6              Langkawi - Pulau Ubin  3.29970810 0.0009678544 0.005807126
+> PT = DT$res
+> PT
+                          Comparison           Z      P.unadj       P.adj
+1       CCNR - Central peninsular MY -0.59130760 0.5543143414 0.665177210
+2                    CCNR - Langkawi -2.93740072 0.0033097613 0.009929284
+3   Central peninsular MY - Langkawi -2.19705752 0.0280163384 0.056032677
+4                  CCNR - Pulau Ubin  0.08271221 0.9340803770 0.934080377
+5 Central peninsular MY - Pulau Ubin  0.70683341 0.4796700117 0.719505018
+6              Langkawi - Pulau Ubin  3.29970810 0.0009678544 0.005807126
+> cldList(P.adj ~ Comparison,
++         data = PT,
++         threshold = 0.05)
+                Group Letter MonoLetter
+1                CCNR      a         a 
+2 CentralpeninsularMY     ab         ab
+3            Langkawi      b          b
+4           PulauUbin      a         a 
+> #Kruskal-Wallis for body size between Females across country
+> females <- dplyr::filter(combined, Sex == "F")
+> kruskal.test(BS~Population, data =females)
+
+	Kruskal-Wallis rank sum test
+
+data:  BS by Population
+Kruskal-Wallis chi-squared = 69.037, df = 3, p-value = 6.861e-15
+
+> DT = dunnTest(BS ~ Population,
++               data=females,
++               method="bh")  
+> DT
+Dunn (1964) Kruskal-Wallis multiple comparison
+  p-values adjusted with the Benjamini-Hochberg method.
+
+                          Comparison         Z      P.unadj        P.adj
+1       CCNR - Central peninsular MY -3.131267 1.740539e-03 2.610808e-03
+2                    CCNR - Langkawi -5.320284 1.036052e-07 3.108157e-07
+3   Central peninsular MY - Langkawi -1.445503 1.483166e-01 1.779799e-01
+4                  CCNR - Pulau Ubin  1.195164 2.320231e-01 2.320231e-01
+5 Central peninsular MY - Pulau Ubin  4.516636 6.282979e-06 1.256596e-05
+6              Langkawi - Pulau Ubin  7.363522 1.791203e-13 1.074722e-12
+> PT = DT$res
+> PT
+                          Comparison         Z      P.unadj        P.adj
+1       CCNR - Central peninsular MY -3.131267 1.740539e-03 2.610808e-03
+2                    CCNR - Langkawi -5.320284 1.036052e-07 3.108157e-07
+3   Central peninsular MY - Langkawi -1.445503 1.483166e-01 1.779799e-01
+4                  CCNR - Pulau Ubin  1.195164 2.320231e-01 2.320231e-01
+5 Central peninsular MY - Pulau Ubin  4.516636 6.282979e-06 1.256596e-05
+6              Langkawi - Pulau Ubin  7.363522 1.791203e-13 1.074722e-12
+> library(rcompanion)
+> cldList(P.adj ~ Comparison,
++         data = PT,
++         threshold = 0.05)
+                Group Letter MonoLetter
+1                CCNR      a         a 
+2 CentralpeninsularMY      b          b
+3            Langkawi      b          b
+4           PulauUbin      a         a 
+> kruskal.test(BS~Country, data =females)
+
+	Kruskal-Wallis rank sum test
+
+data:  BS by Country
+Kruskal-Wallis chi-squared = 65.519, df = 1, p-value = 5.755e-16

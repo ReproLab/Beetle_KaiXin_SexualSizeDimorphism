@@ -1,0 +1,160 @@
+﻿ID,Country,Geography,Population,Sex,BS
+B1,Singapore,Mainland,CCNR,M,4
+B2,Singapore,Mainland,CCNR,M,4.25
+B3,Singapore,Mainland,CCNR,M,3.75
+B4,Singapore,Mainland,CCNR,M,3.9
+B5,Singapore,Mainland,CCNR,M,3.85
+B6,Singapore,Mainland,CCNR,M,3.7
+B7,Singapore,Mainland,CCNR,M,3.35
+B8,Singapore,Mainland,CCNR,M,3.6
+B9,Singapore,Mainland,CCNR,M,4
+B10,Singapore,Mainland,CCNR,M,3.6
+B11,Singapore,Mainland,CCNR,M,3.575
+B12,Singapore,Mainland,CCNR,M,3.5
+B13,Singapore,Mainland,CCNR,M,4.175
+B14,Singapore,Mainland,CCNR,M,3.8
+B15,Singapore,Mainland,CCNR,M,3.525
+B16,Singapore,Mainland,CCNR,M,3.45
+B17,Singapore,Mainland,CCNR,M,3.7
+B18,Singapore,Mainland,CCNR,M,4
+B19,Singapore,Mainland,CCNR,M,4.4
+B20,Singapore,Mainland,CCNR,M,3.8
+B21,Singapore,Mainland,CCNR,M,3.85
+B22,Singapore,Mainland,CCNR,M,3.9
+B23,Singapore,Mainland,CCNR,M,3.65
+B25,Singapore,Mainland,CCNR,M,3.9
+B26,Singapore,Mainland,CCNR,M,3.8
+B27,Singapore,Mainland,CCNR,M,3.725
+B28,Singapore,Mainland,CCNR,M,3.525
+B41,Singapore,Mainland,CCNR,M,3.55
+B43,Singapore,Mainland,CCNR,M,3.75
+B44,Singapore,Mainland,CCNR,M,3.825
+B45,Singapore,Mainland,CCNR,M,3.6
+B113,Singapore,Mainland,CCNR,M,3.6
+B114,Singapore,Mainland,CCNR,M,3.7
+B115,Singapore,Mainland,CCNR,M,3.6
+B116,Singapore,Mainland,CCNR,M,3.65
+B117,Singapore,Mainland,CCNR,M,4.1
+B118,Singapore,Mainland,CCNR,M,4.125
+B119,Singapore,Mainland,CCNR,M,4.25
+B120,Singapore,Mainland,CCNR,M,4.125
+B155,Singapore,Mainland,CCNR,M,4.35
+B408,Singapore,Mainland,CCNR,M,3.675
+B410,Singapore,Mainland,CCNR,M,3.8
+B411,Singapore,Mainland,CCNR,M,3.875
+B412,Singapore,Mainland,CCNR,M,4.25
+B413,Singapore,Mainland,CCNR,M,3.725
+B266,Singapore,Mainland,CCNR,M,3.65
+B267,Singapore,Mainland,CCNR,M,4.05
+B268,Singapore,Mainland,CCNR,M,3.7
+B269,Singapore,Mainland,CCNR,M,3.85
+B29,Singapore,Island,Pulau Ubin,M,3.65
+B30,Singapore,Island,Pulau Ubin,M,3.9
+B31,Singapore,Island,Pulau Ubin,M,3.8
+B32,Singapore,Island,Pulau Ubin,M,4.225
+B33,Singapore,Island,Pulau Ubin,M,3.5
+B35,Singapore,Island,Pulau Ubin,M,4
+B95,Singapore,Island,Pulau Ubin,M,3.8
+B96,Singapore,Island,Pulau Ubin,M,4.05
+B97,Singapore,Island,Pulau Ubin,M,3.6
+B98,Singapore,Island,Pulau Ubin,M,3.825
+B99,Singapore,Island,Pulau Ubin,M,4.05
+B100,Singapore,Island,Pulau Ubin,M,3.875
+B101,Singapore,Island,Pulau Ubin,M,3.45
+B102,Singapore,Island,Pulau Ubin,M,3.625
+B103,Singapore,Island,Pulau Ubin,M,3.85
+B104,Singapore,Island,Pulau Ubin,M,3.375
+B121,Singapore,Island,Pulau Ubin,M,3.875
+B122,Singapore,Island,Pulau Ubin,M,3.9
+B123,Singapore,Island,Pulau Ubin,M,3.4
+B124,Singapore,Island,Pulau Ubin,M,4.05
+B125,Singapore,Island,Pulau Ubin,M,3.95
+B126,Singapore,Island,Pulau Ubin,M,3.95
+B127,Singapore,Island,Pulau Ubin,M,3.9
+B128,Singapore,Island,Pulau Ubin,M,4
+B129,Singapore,Island,Pulau Ubin,M,3.7
+B130,Singapore,Island,Pulau Ubin,M,3.95
+B132,Singapore,Island,Pulau Ubin,M,3.45
+B133,Singapore,Island,Pulau Ubin,M,3.8
+B134,Singapore,Island,Pulau Ubin,M,3.85
+B135,Singapore,Island,Pulau Ubin,M,4.1
+B136,Singapore,Island,Pulau Ubin,M,3.85
+B138,Singapore,Island,Pulau Ubin,M,3.65
+B139,Singapore,Island,Pulau Ubin,M,3.6
+B140,Singapore,Island,Pulau Ubin,M,3.65
+B141,Singapore,Island,Pulau Ubin,M,3.65
+B142,Singapore,Island,Pulau Ubin,M,3.925
+B143,Singapore,Island,Pulau Ubin,M,3.675
+B144,Singapore,Island,Pulau Ubin,M,3.9
+B146,Singapore,Island,Pulau Ubin,M,3.75
+B147,Singapore,Island,Pulau Ubin,M,3.85
+B148,Singapore,Island,Pulau Ubin,M,3.85
+B149,Singapore,Island,Pulau Ubin,M,4
+B150,Singapore,Island,Pulau Ubin,M,3.65
+B151,Singapore,Island,Pulau Ubin,M,4
+B152,Singapore,Island,Pulau Ubin,M,3.65
+B153,Singapore,Island,Pulau Ubin,M,3.8
+B154,Singapore,Island,Pulau Ubin,M,3.775
+B201,Singapore,Island,Pulau Ubin,M,4.25
+B386,Singapore,Island,Pulau Ubin,M,3.55
+B387,Singapore,Island,Pulau Ubin,M,3.55
+B392,Singapore,Island,Pulau Ubin,M,3.9
+B404,Singapore,Island,Pulau Ubin,M,3.95
+B405,Singapore,Island,Pulau Ubin,M,3.55
+B406,Singapore,Island,Pulau Ubin,M,3.95
+B407,Singapore,Island,Pulau Ubin,M,3.575
+B420,Singapore,Island,Pulau Ubin,M,3.8
+B421,Singapore,Island,Pulau Ubin,M,3.9
+B428,Singapore,Island,Pulau Ubin,M,4.3
+B429,Singapore,Island,Pulau Ubin,M,3.5
+B430,Singapore,Island,Pulau Ubin,M,3.65
+B425,Singapore,Island,Pulau Ubin,M,4.25
+B433,Singapore,Island,Pulau Ubin,M,3.35
+B292,Malaysia,Mainland,Central peninsular MY,M,4.25
+B293,Malaysia,Mainland,Central peninsular MY,M,4.15
+B294,Malaysia,Mainland,Central peninsular MY,M,3.9
+B295,Malaysia,Mainland,Central peninsular MY,M,4.25
+B296,Malaysia,Mainland,Central peninsular MY,M,4.15
+B297,Malaysia,Mainland,Central peninsular MY,M,4
+B298,Malaysia,Mainland,Central peninsular MY,M,4.1
+B299,Malaysia,Mainland,Central peninsular MY,M,3.5
+B300,Malaysia,Mainland,Central peninsular MY,M,3.925
+B301,Malaysia,Mainland,Central peninsular MY,M,3.8
+B302,Malaysia,Mainland,Central peninsular MY,M,4.2
+B303,Malaysia,Mainland,Central peninsular MY,M,3.85
+B304,Malaysia,Mainland,Central peninsular MY,M,3.975
+B305,Malaysia,Mainland,Central peninsular MY,M,3.975
+B306,Malaysia,Mainland,Central peninsular MY,M,3.8
+B327,Malaysia,Mainland,Central peninsular MY,M,4.3
+B328,Malaysia,Mainland,Central peninsular MY,M,4.175
+B329,Malaysia,Mainland,Central peninsular MY,M,3.8
+B330,Malaysia,Mainland,Central peninsular MY,M,3.5
+B331,Malaysia,Mainland,Central peninsular MY,M,3.65
+B332,Malaysia,Mainland,Central peninsular MY,M,3.85
+B333,Malaysia,Mainland,Central peninsular MY,M,3.75
+B334,Malaysia,Mainland,Central peninsular MY,M,3.7
+B335,Malaysia,Mainland,Central peninsular MY,M,3.5
+B336,Malaysia,Mainland,Central peninsular MY,M,3.65
+MB190,Malaysia,Mainland,Central peninsular MY,M,3.4
+MB192,Malaysia,Mainland,Central peninsular MY,M,3.85
+MB193,Malaysia,Mainland,Central peninsular MY,M,3.725
+MB194,Malaysia,Mainland,Central peninsular MY,M,3.8
+MB195,Malaysia,Mainland,Central peninsular MY,M,4
+MB196,Malaysia,Mainland,Central peninsular MY,M,3.95
+MB197,Malaysia,Mainland,Central peninsular MY,M,3.85
+MB198,Malaysia,Mainland,Central peninsular MY,M,3.8
+MB199,Malaysia,Mainland,Central peninsular MY,M,3.75
+MB200,Malaysia,Mainland,Central peninsular MY,M,3.4
+MB201,Malaysia,Mainland,Central peninsular MY,M,3.45
+MB202,Malaysia,Mainland,Central peninsular MY,M,3.5
+MB203,Malaysia,Mainland,Central peninsular MY,M,3.2
+MB204,Malaysia,Mainland,Central peninsular MY,M,4.1
+MB205,Malaysia,Mainland,Central peninsular MY,M,3.8
+MB206,Malaysia,Mainland,Central peninsular MY,M,3.85
+MB207,Malaysia,Mainland,Central peninsular MY,M,3.75
+MB208,Malaysia,Mainland,Central peninsular MY,M,3.8
+MB209,Malaysia,Mainland,Central peninsular MY,M,3.925
+MB210,Malaysia,Mainland,Central peninsular MY,M,4.025
+MB339,Malaysia,Mainland,Central peninsular MY,M,4.025
+MB340,Malaysia,Mainland,Central peninsular MY,M,3.8
+MB341,Malaysia,Mainland,Central peninsular MY,M,3.5
