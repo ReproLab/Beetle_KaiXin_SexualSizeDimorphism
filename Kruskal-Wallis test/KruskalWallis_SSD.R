@@ -29,7 +29,7 @@ kruskal.test(BS~Sex, data =Langkawi)
 
 #read data for across population comparisons
 combined <- read.csv("combined.csv")
-
+str(combined)
 #Kruskal-Wallis for body size between population
 kruskal.test(BS~Population, data =combined)
 
@@ -56,9 +56,24 @@ cldList(P.adj ~ Comparison,
         data = PT,
         threshold = 0.05)
 #Groups sharing a letter not signficantly different (alpha = 0.05).
+##CCNR n Ubin and CPM no sig diff. 
+
+#lang vs SG population sig. diff, removed cpm from dataset, test country cuz testing lang vs sg
+nocpm<-read.csv("combined_noCPM.csv")
+Mnocpm<-dplyr::filter(nocpm, Sex == "M")
+str(nocpm)
+str(Mnocpm)
+kruskal.test(BS~Country, data =Mnocpm)
+
+#CPM vs langkawi males
+MY<-read.csv("combined_malesMY.csv")
+str(MY)
+kruskal.test(BS~Population, data =MY)
+
 
 #Kruskal-Wallis for body size between Females across country
 females <- dplyr::filter(combined, Sex == "F")
+str(females)
 kruskal.test(BS~Population, data =females)
 DT = dunnTest(BS ~ Population,
               data=females,
@@ -70,6 +85,6 @@ library(rcompanion)
 cldList(P.adj ~ Comparison,
         data = PT,
         threshold = 0.05)
-
+#from dunn test MY pop same and SG diff --> so conduct kruskal for country
 kruskal.test(BS~Country, data =females)
 
