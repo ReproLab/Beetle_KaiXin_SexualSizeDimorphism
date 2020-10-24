@@ -38,6 +38,9 @@ kruskal.test(BS~Country, data =combined)
 
 #Kruskal-Wallis for body size between males across population
 males <- dplyr::filter(combined, Sex == "M")
+kruskal.test(BS~Population, data =males)
+#as Kruskal wallis for male body size across population is 0.001059, sig
+#hence, I conducted post hoc test to see which pop differ from one another
 males$Country <- as.factor(males$Country)
 males$Population <- as.factor(males$Population)
 str(males)
@@ -58,17 +61,6 @@ cldList(P.adj ~ Comparison,
 #Groups sharing a letter not signficantly different (alpha = 0.05).
 ##CCNR n Ubin and CPM no sig diff. 
 
-#lang vs SG population sig. diff, removed cpm from dataset, test country cuz testing lang vs sg
-nocpm<-read.csv("combined_noCPM.csv")
-Mnocpm<-dplyr::filter(nocpm, Sex == "M")
-str(nocpm)
-str(Mnocpm)
-kruskal.test(BS~Country, data =Mnocpm)
-
-#CPM vs langkawi males
-MY<-read.csv("combined_malesMY.csv")
-str(MY)
-kruskal.test(BS~Population, data =MY)
 
 
 #Kruskal-Wallis for body size between Females across country
@@ -78,6 +70,7 @@ kruskal.test(BS~Population, data =females)
 DT = dunnTest(BS ~ Population,
               data=females,
               method="bh")  
+
 DT
 PT = DT$res
 PT
