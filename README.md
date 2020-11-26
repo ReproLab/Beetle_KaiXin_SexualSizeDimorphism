@@ -10,7 +10,7 @@ Codes are named "boxplot_SSD.R"
 Output/graph is named "plot_SSD.pdf"
 
 2. In the "Kruskal-Wallis test" folder: Kruskal-Wallis test to determine if there is a significant difference between male and female body sizes for the populations. I'm using this test because Body Size is a continuous variable and my other variables (sex,population,country) are categorical = ANOVA BUT my data is not normal --> therefore, the non-parametric test equivalent is Kruskal wallis. http://blog.minitab.com/blog/understanding-statistics/data-not-normal-try-letting-it-be-with-a-nonparametric-hypothesis-test
-I also conducted the post hoc test: Dunn test with referecne to: https://rcompanion.org/handbook/F_08.html to determine which population differ with one another.
+I also conducted the post hoc test: Dunn test with reference to: https://rcompanion.org/handbook/F_08.html to determine which population differ with one another.
 The file is name "KruskalWallis_SSD.R"
 
 3. In the "Density plots" folder: Density plots and histograms for body size for males and females of each  population. (included in my thesis' Appendix) 
