@@ -10,6 +10,10 @@ getwd()
 setwd("/Users/kaixin/Beetle_KaiXin_SexualSizeDimorphism/Kruskal-Wallis test")
 MYmales <- read.csv("MYmaleBS.csv")
 
+#Shapiro Wilk test to test for normal distribution#
+#If the P-Value of the Shapiro Wilk Test is smaller than 0.05, we do not assume a normal distribution#
+shapiro.test(MYmales$BS)
+#p-value=0.001<0.05, hence not normal#
 
 #Kruskal-Wallis for Body Size~Location within Malaysia Males
 str(MYmales)
