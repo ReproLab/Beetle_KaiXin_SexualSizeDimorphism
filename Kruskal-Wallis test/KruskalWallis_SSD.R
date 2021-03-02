@@ -13,6 +13,21 @@ Ubin <- read.csv("PU.csv")
 MYmainland <- read.csv("MYmainland.csv")
 Langkawi <- read.csv("Langkawi.csv")
 
+#Shapiro Wilk test to test for normal distribution#
+#If the P-Value of the Shapiro Wilk Test is smaller than 0.05, we do not assume a normal distribution#
+shapiro.test(CCNR$BS)
+shapiro.test(Ubin$BS)
+shapiro.test(MYmainland$BS)
+shapiro.test(Langkawi$BS)
+# CCNR: 0.02927, Ubin: 0.0004719, MY mainland:0.001031, MY island; 2.161e-07), all values < 0.05, hence data is not normal.#
+
+#Shapiro for whole of SG#
+data <- read.csv("combined.csv")
+SG <- dplyr::filter(combined, Country == "Singapore")
+str(SG)
+shapiro.test(SG$BS)
+
+
 
 #Kruskal-Wallis for Body Size~Sex within the population
 str(CCNR)
