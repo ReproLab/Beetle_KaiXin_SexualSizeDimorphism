@@ -9,11 +9,13 @@ getwd()
 setwd("/Users/kaixin/Beetle_KaiXin_SexualSizeDimorphism/Kruskal-Wallis test")
 
 
+
 data <- read.csv("combined.csv")
+str(data)
 kruskal.test(BS~Sex+Population, data=data)
 kruskal.test(BS~Sex, data=data)
 
-str(data)
+summary(model)
 model1<- lm(BS~Sex+Population+Sex*Population, data=data)
 summary(model1)
 
